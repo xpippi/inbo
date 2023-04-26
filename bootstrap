@@ -1,5 +1,5 @@
 #!/bin/sh -ex
 yum install -y git
-git clone https://github.com/xonsh/inabox.git
-cd inabox
+git clone https://github.com/xpippi/inbo.git
+cd inbo
 exec ./install
